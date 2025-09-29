@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI & ML**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/amouei/](https://www.linkedin.com/in/amouei/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/amouei](https://www.linkedin.com/in/amouei)
 
 - 📫 Contact me  here **mehrniaamouei@gmail.com**
 
